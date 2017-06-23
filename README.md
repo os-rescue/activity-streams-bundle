@@ -9,4 +9,4 @@ Check out the documentation of the Activity Streams format on the [official webs
 
 ## Notification System
 
-Through SonataNotificationBundle, this bundle push the notifications to the target users into the feed or the pool or the warning.
+Through SonataNotificationBundle, this bundle push the notifications to the target users foreach provider.
